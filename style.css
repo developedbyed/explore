@@ -16,6 +16,9 @@
 .parralax_wrapper {
   height: 100vh;
 }
+.overlay{
+  background: rgba(0, 0, 0, 0.658);
+}
 .parralax_wrapper img {
   width: 100%;
   position: absolute;
@@ -29,6 +32,9 @@
   left: 50%;
   font-size: 6rem;
   transform: translate(-50%, -30%);
+}
+.girl{
+  width: 55%;
 }
 
 .content {
