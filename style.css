@@ -5,18 +5,18 @@
   color: #fff;
   font-family: "Poppins", sans-serif;
 }
-nav {
+/* nav {
   position: absolute;
   width: 100%;
   display: flex;
   padding: 3rem 10rem;
   justify-content: space-between;
-}
+} */
 
-.container {
+.parralax_wrapper {
   height: 100vh;
 }
-.container img {
+.parralax_wrapper img {
   width: 100%;
   position: absolute;
   height: 110vh;
